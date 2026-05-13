@@ -11,7 +11,7 @@
 
 ---
 
-## 📋 Table of Cotents
+## 📋 Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Dataset](#-dataset)
