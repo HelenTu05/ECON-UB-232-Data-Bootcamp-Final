@@ -9,7 +9,7 @@
 [![Dataset](https://img.shields.io/badge/Data-Kaggle%20USDOT%202015-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/usdot/flight-delays)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**Author:** He (Helen) Tu
+**Contributors:** He (Helen) Tu, Siye Li
 **Course:** ECON-UB 232 Data Bootcamp, NYU Stern — Spring 2026
 
 ---
