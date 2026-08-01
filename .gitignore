@@ -1,0 +1,20 @@
+# Raw data — downloaded from Kaggle, see data/README.md
+data/flights.csv
+*.zip
+
+# Notebook / Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
